@@ -7,6 +7,11 @@ Excellent fundamental knowledge of computer science, which includes algorithms, 
 Favorite Languages:
 
 <div style="display: flex">
+    <img src="https://github-readme-stats.vercel.app/api?username=saitodeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitodeveloper&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: flex">
     <img src="./.docs/nodejs.png " alt="Node.js Logo" width="30" />
     <img src="./.docs/javascript.png " alt="JavaScript Logo" width="30" />
     <img src="./.docs/html.png " alt="HTML Logo" width="30" />
