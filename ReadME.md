@@ -7,8 +7,8 @@ Excellent fundamental knowledge of computer science, which includes algorithms, 
 Favorite Languages:
 
 <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=saitodeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitodeveloper&layout=compact&langs_count=7&theme=dracula"/>
+    <img style="flex: 1" src="https://github-readme-stats.vercel.app/api?username=saitodeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img style="flex: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitodeveloper&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: flex">
@@ -18,8 +18,3 @@ Favorite Languages:
     <img src="./.docs/css.png " alt="CSS Logo" width="30" />
     <img src="./.docs/reactjs.png " alt="React.js Logo" width="30" />
 </div>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
